@@ -1,0 +1,1274 @@
+[
+  {
+    "keyword": "fire damper",
+    "spec_section": "08 83 00",
+    "spec_title": "3",
+    "spec_snippet": "08 83 00 - 3\nFOULGER-PRATT HEADQUARTERS\nISSUE FOR PERMIT AND BID\nSECTION 09 22 16 - NON-STRUCTURAL METAL FRAMING\nPART 1 - GENERAL\n1.1 SUMMARY\nA. Section Includes:\nNon-load-bearing steel framing systems for interior partitions.\nSuspension systems for ",
+    "drawing_mentions": [
+      {
+        "page": 3,
+        "text": "PROVIDE FIRE DAMPERS MATCHING FIRE RATING FOR ADJACENT CONSTRUCTION THAT ARE FIRE DEPARTMENT LISTED AND APPROVED AT LOCATIONS SHOWN AND WHEREVER AIR DUCTS PENETRATE FIRE-RATED WALLS OR CEILINGS. 32.",
+        "bbox": {
+          "l": 688.8,
+          "t": 838.5299882278823,
+          "r": 1129.587,
+          "b": 808.7629882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      }
+    ]
+  },
+  {
+    "keyword": "duct",
+    "spec_section": "01 10 00",
+    "spec_title": "1",
+    "spec_snippet": "01 10 00 - 1\nPERKINS+WILL 860424 05/28/15\nFOULGER-PRATT HEADQUARTERS\nISSUE FOR PERMIT AND BID\n1.3 WORK COVERED BY CONTRACT DOCUMENTS\nThe Work of Project is defined by the Contract Documents and consists of the following:\nFit-out Level 02 of a newly c",
+    "drawing_mentions": [
+      {
+        "page": 3,
+        "text": "INSTALL PIPING, DUCTS, AND OTHER SYSTEMS THAT PENETRATE FLOOR SLABS AND FIRE RATED PARTITIONS IN A MANNER THAT WILL PRESERVE THE FIRE RESISTIVE AND STRUCTURAL INTEGRITY OF THE CONSTRUCTION. 21.",
+        "bbox": {
+          "l": 688.8,
+          "t": 1267.1099882278822,
+          "r": 1136.999,
+          "b": 1248.0839882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 3,
+        "text": "FRAME DUCTWORK AT PARTITION LOCATIONS AND BRACE STUDS AS REQUIRED FOR RIGID CONSTRUCTION. PROVIDE TRANSFER DUCTS IN SLAB TO SLAB PARTITION AS REQUIRED BY MECHANICAL SYSTEMS. NOTIFY ARCHITECT IF TRANSFER DUCT IS IN CONFLICT WITH AN ARCHITECTURAL CONDITION. 26.",
+        "bbox": {
+          "l": 688.8,
+          "t": 1052.8509882278822,
+          "r": 1115.39,
+          "b": 1023.0839882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 3,
+        "text": "PROVIDE FIRE DAMPERS MATCHING FIRE RATING FOR ADJACENT CONSTRUCTION THAT ARE FIRE DEPARTMENT LISTED AND APPROVED AT LOCATIONS SHOWN AND WHEREVER AIR DUCTS PENETRATE FIRE-RATED WALLS OR CEILINGS. 32.",
+        "bbox": {
+          "l": 688.8,
+          "t": 838.5299882278823,
+          "r": 1129.587,
+          "b": 808.7629882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 3,
+        "text": "WHETHER OR NOT EXPLICITLY INDICATED, PROVIDE SAFETY GLAZING WHEN GLAZING IS WITHIN 18\" OF FLOOR OR WITHIN 3'-0\" HORIZONTAL DISTANCE FROM ANY DOOR. SUPPLY A CERTIFICATE TO ACCOMPANY GLAZING PRODUCTS STATING THAT PRODUCTS CONFORM TO APPLICABLE CONSUMER PRODUCT SAFETY STANDARDS. COORDINATE LOCATION OF PERMANENT STAMPS ON GLASS WITH ARCHITECT. 34.",
+        "bbox": {
+          "l": 688.8,
+          "t": 752.8499882278825,
+          "r": 1146.067,
+          "b": 712.3439882278822,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 3,
+        "text": "COORDINATE DEMOLITION WORK WITH OTHER WORK. REMOVE EXISTING CONSTRUCTION AS REQUIRED TO PROVIDE FINAL FINISHED PRODUCT INTENDED IN THIS CONTRACT AND TO COMPLETE NEW WORK. DRAWINGS DO NOT NECESSARILY SHOW COMPLETE DEMOLITION WORK REQUIRED, BUT RATHER SHOWN INTENT OF DEMOLITION AND NEW CONSTRUCTION. DEMOLISH TO A POINT TO PROVIDE SUITABLE TRANSITION AND BONDING OF EXISTING WORK TO NEW WORK. 9.",
+        "bbox": {
+          "l": 1207.2,
+          "t": 1266.6909882278824,
+          "r": 1653.58,
+          "b": 1215.5039882278822,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 3,
+        "text": "PAINT NEW AND EXISTING CONSTRUCTION VISIBLE THROUGH DIFFUSERS AND RETURNS INCLUDING DUCTWORK NON-SPECULAR BLACK. 18.",
+        "bbox": {
+          "l": 1729.201,
+          "t": 547.7709882278823,
+          "r": 2125.04,
+          "b": 528.6839882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 3,
+        "text": "DO NOT SUPPORT CEILING SYSTEM FROM ANY DUCTWORK OR MECHANICAL UNIT. PROVIDE SUPPLEMENTAL FRAMING FOR CEILING SUPPORT AT EXPANSES OF DUCTWORK, MECHANICAL UNITS AND OTHER EXPANSES. DO NOT ALLOW CEILING SYSTEM TO COME INTO CONTACT WITH DUCTWORK OR MECHANICAL UNITS. 19.",
+        "bbox": {
+          "l": 1729.201,
+          "t": 515.6109882278824,
+          "r": 2169.766,
+          "b": 485.8439882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 5,
+        "text": "DUCT",
+        "bbox": {
+          "l": 450.241,
+          "t": 347.1899882278824,
+          "r": 471.439,
+          "b": 338.8429882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 11,
+        "text": "PRODUCTION",
+        "bbox": {
+          "l": 2064.36,
+          "t": 999.9559882278822,
+          "r": 2132.344,
+          "b": 988.8569882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 12,
+        "text": "PRODUCTION",
+        "bbox": {
+          "l": 2064.42,
+          "t": 1004.1559882278823,
+          "r": 2132.404,
+          "b": 993.0569882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 12,
+        "text": "C3 NO CEILING IN THIS LOCATION. PAINT EXPOSED SLAB, HANGERS, AND DUCTWORK P-3. C9 WD-1 SOFFIT",
+        "bbox": {
+          "l": 2318.82,
+          "t": 686.9099882278824,
+          "r": 2677.321,
+          "b": 665.7229882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 12,
+        "text": "PAINT EXPOSED DUCTWORK P-5. 11.",
+        "bbox": {
+          "l": 2324.46,
+          "t": 338.4889882278824,
+          "r": 2480.467,
+          "b": 330.1419882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 12,
+        "text": "COORDINATE LOCATION OF EXPOSED DUCTWORK WITH MECHANICAL PLANS. 13.",
+        "bbox": {
+          "l": 2324.46,
+          "t": 284.9089882278822,
+          "r": 2648.421,
+          "b": 276.56098822788226,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 13,
+        "text": "PRODUCTION",
+        "bbox": {
+          "l": 2117.4,
+          "t": 1005.7759882278824,
+          "r": 2185.384,
+          "b": 994.6769882278822,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 14,
+        "text": "PRODUCTION",
+        "bbox": {
+          "l": 2065.38,
+          "t": 1000.1359882278823,
+          "r": 2133.383,
+          "b": 989.0369882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 15,
+        "text": "PRODUCTION",
+        "bbox": {
+          "l": 2065.44,
+          "t": 998.2759882278824,
+          "r": 2133.424,
+          "b": 987.1769882278822,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 22,
+        "text": "PRODUCTION ROOM - EAST",
+        "bbox": {
+          "l": 242.221,
+          "t": 476.86998822788246,
+          "r": 517.524,
+          "b": 454.67298822788234,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 22,
+        "text": "PRODUCTION ROOM -WEST",
+        "bbox": {
+          "l": 242.221,
+          "t": 120.70998822788238,
+          "r": 517.557,
+          "b": 98.51298822788249,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 22,
+        "text": "PRODUCTION ROOM - NORTH",
+        "bbox": {
+          "l": 1007.1,
+          "t": 476.86998822788246,
+          "r": 1301.256,
+          "b": 454.6739882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 22,
+        "text": "PRODUCTION ROOM -SOUTH",
+        "bbox": {
+          "l": 1007.101,
+          "t": 120.70998822788238,
+          "r": 1294.516,
+          "b": 98.51398822788224,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 22,
+        "text": "PRODUCTION",
+        "bbox": {
+          "l": 1783.92,
+          "t": 531.2949882278822,
+          "r": 1851.923,
+          "b": 520.1969882278822,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 22,
+        "text": "1/4\" = 1'-0\" 1 ENLARGED PLAN - PRODUCTION ROOM 226",
+        "bbox": {
+          "l": 1676.461,
+          "t": 120.70998822788238,
+          "r": 2138.045,
+          "b": 81.8969882278825,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 27,
+        "text": "NOTE: IN PRODUCTION ROOM 226  HEIGHT IS 3'-0\".",
+        "bbox": {
+          "l": 1770.6,
+          "t": 670.2309882278823,
+          "r": 1958.169,
+          "b": 661.8839882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 31,
+        "text": "DUCT REF MECH",
+        "bbox": {
+          "l": 2499.72,
+          "t": 1218.0309882278823,
+          "r": 2562.662,
+          "b": 1209.6839882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 34,
+        "text": "ALL DUCTWORK AND PIPING IS SHOWN DIAGRAMMATICALLY AND DOES NOT SHOW ALL OFFSETS, DROPS AND RISES OF RUNS. THE CONTRACTOR SHALL ALLOW IN HIS PRICES FOR ROUTING OF DUCTWORK AND PIPING TO AVOID OBSTRUCTIONS. EXACT LOCATIONS SUBJECT TO APPROVAL OF ENGINEER.",
+        "bbox": {
+          "l": 766.92,
+          "t": 1821.56,
+          "r": 1233.728,
+          "b": 1793.688,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 34,
+        "text": "SUPPORT ALL DUCTWORK AND PIPING FROM BUILDING STRUCTURE AND/OR FRAMING IN AN APPROVED MANNER. WHERE OVERHEAD CONSTRUCTION DOES NOT PERMIT FASTENING OF SUPPORTS FOR EQUIPMENT, FURNISH ADDITIONAL STEEL FRAMING.",
+        "bbox": {
+          "l": 745.92,
+          "t": 1773.2,
+          "r": 1222.417,
+          "b": 1745.328,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 34,
+        "text": "PLAN INSTALLATION OF NEW WORK AND CONNECTIONS TO EXISTING WORK TO INSURE MINIMUM INTERFERENCE WITH REGULAR OPERATION OF EXISTING FACILITIES. ALL SYSTEM SHUTDOWNS AFFECTING OTHER AREAS SHALL BE COORDINATED WITH BUILDING OWNER. INSTALL ISOLATION VALVES AT POINT OF CONNECTION TO THE EXISTING PIPING. PROVIDE TEMPORARY DUCT CAPS AND/OR CONNECTIONS TO MINIMIZE SHUTDOWN TIME. ALL SHUT DOWNS SHALL BE ON OFF HOURS & INCLUDED IN BID.",
+        "bbox": {
+          "l": 766.92,
+          "t": 1628.24,
+          "r": 1244.25,
+          "b": 1578.288,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 34,
+        "text": "SEAL OPENINGS AROUND DUCTS AND PIPING THROUGH PARTITIONS, WALLS AND FLOORS (NOT IN SHAFTS) WITH MINERAL WOOL OR OTHER NON-COMBUSTIBLE MATERIAL. SEE SPECIFICATIONS.",
+        "bbox": {
+          "l": 745.92,
+          "t": 1435.04,
+          "r": 1221.808,
+          "b": 1418.208,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 34,
+        "text": "DUCTWORK SYMBOLS",
+        "bbox": {
+          "l": 1737.48,
+          "t": 2003.32,
+          "r": 1900.46,
+          "b": 1991.735,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 35,
+        "text": "PROVIDE CONTINUOUS PLENUM FOR SUPPLY SLOT DIFFUSERS PLACED END-TO-END. PROVIDE SAME NUMBER OF DUCT TAPS INTO COMMON PLENUM AS INDICATED ON DUCT PLANS.",
+        "bbox": {
+          "l": 1725.84,
+          "t": 1807.4,
+          "r": 2409.009,
+          "b": 1801.608,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 37,
+        "text": "PRODUCTION ROOM",
+        "bbox": {
+          "l": 1656.36,
+          "t": 833.5999999999999,
+          "r": 1733.209,
+          "b": 827.808,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 40,
+        "text": "(DUCT",
+        "bbox": {
+          "l": 1104.721,
+          "t": 818.1129882278824,
+          "r": 1128.084,
+          "b": 810.5759882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 41,
+        "text": "PRODUCTION",
+        "bbox": {
+          "l": 1586.82,
+          "t": 937.4529882278823,
+          "r": 1637.188,
+          "b": 929.9159882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 42,
+        "text": "DO NOT SCALE THE DRAWINGS. BECAUSE OF THE SCALE OF THE DRAWINGS, IT IS NOT POSSIBLE TO INDICATE OFFSETS, FITTINGS, VALVES, OR SIMILAR ITEMS WHICH MAY BE REQUIRED TO PROVIDE COMPLETE OPERATING SYSTEMS. CAREFULLY INVESTIGATE CONDITIONS AFFECTING THE WORK ASSOCIATED WITH THIS PROJECT. INSTALL SYSTEMS IN SUCH A MANNER THAT INTERFERENCES BETWEEN PIPES, CONDUIT, DUCTS, EQUIPMENT, ARCHITECTURAL, AND STRUCTURAL FEATURES ARE AVOIDED. PROVIDE ITEMS REQUIRED TO MEET THE PROJECT CONDITIONS WITHOUT ADDITIONAL COST TO THE OWNER. 2.",
+        "bbox": {
+          "l": 1110.482,
+          "t": 1861.0329882278822,
+          "r": 1460.793,
+          "b": 1787.0759882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 42,
+        "text": "ALL NEW PIPES ARE TO BE SUPPORTED FROM SLAB OR STEEL BEAMS, NOT FROM EXISTING PIPES OR DUCT WORK. 4.",
+        "bbox": {
+          "l": 1110.482,
+          "t": 1706.1129882278824,
+          "r": 1458.771,
+          "b": 1687.5369882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 43,
+        "text": "PRODUCTION",
+        "bbox": {
+          "l": 1586.82,
+          "t": 972.8529882278822,
+          "r": 1637.188,
+          "b": 965.3169882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 52,
+        "text": "PRODUCTION ROOM",
+        "bbox": {
+          "l": 1695.36,
+          "t": 1370.48,
+          "r": 1772.155,
+          "b": 1364.688,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 52,
+        "text": "1 WALL MOUNTED COMBINATION J-BOX TO SERVE REQUIREMENTS FOR POWER AND TEL/DATA OUTLETS WITHIN PRE-WIRED FUNITURE. COORDINATE EXACT CONNECTION TYPE AND QUANTITY OF POWER CONDUCTORS WITH EQUIPMENT MANUFACTURER. PROVIDE DISCONNECTING MEANS AS REQUIRED BY NEC ART. 605.7. PROVIDE 1-1 1/4\" C. TO 6\" INTO NEAREST HUNG CEILING SPACE. PROVIDE LABEL ON ALL FURNITURE WHIPS INDICATED PANEL AND CIRCUIT NUMBER FEEDING RESPECTIVE FURNITURE CLUSTER.",
+        "bbox": {
+          "l": 817.8,
+          "t": 637.4000000000001,
+          "r": 1140.827,
+          "b": 565.248,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 52,
+        "text": "2 FLUSH FLOOR MOUNTED FIRE RATED POKE-THRU DEVICE TO SERVE REQUIREMENTS FOR POWER AND TEL/DATA OUTLETS WITHIN PRE-WIRED FURNITURE. COORDINATE EXACT CONNECTION TYPE AND QUANTITY OF POWER CONDUCTORS WITH EQUIPMENT MANUFACTURER. PROVIDE DISCONNECTING MEANS AS REQUIRED BY NEC ART. 605.7. PROVIDE 1-1 1/4\" C. TO 6\" INTO NEAREST HUNG CEILING SPACE. PROVIDE LABEL ON ALL FURNITURE WHIPS INDICATED PANEL AND CIRCUIT NUMBER FEEDING RESPECTIVE FURNITURE CLUSTER.",
+        "bbox": {
+          "l": 817.8,
+          "t": 557.96,
+          "r": 1137.603,
+          "b": 474.76800000000003,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 53,
+        "text": "PRODUCTION ROOM",
+        "bbox": {
+          "l": 1787.16,
+          "t": 1370.48,
+          "r": 1863.955,
+          "b": 1364.688,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 59,
+        "text": "PRODUCTION ROOM",
+        "bbox": {
+          "l": 1698.24,
+          "t": 1321.76,
+          "r": 1775.089,
+          "b": 1315.968,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 60,
+        "text": "PRODUCTION",
+        "bbox": {
+          "l": 1985.519,
+          "t": 701.427,
+          "r": 2053.483,
+          "b": 690.656,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      }
+    ]
+  },
+  {
+    "keyword": "panel",
+    "spec_section": "01 10 00",
+    "spec_title": "4",
+    "spec_snippet": "01 10 00 - 4\nFOULGER-PRATT HEADQUARTERS\nISSUE FOR PERMIT AND BID\nSECTION 01 21 00 - ALLOWANCES\nPART 1 - GENERAL\n1.1 SUMMARY\nSection includes administrative and procedural requirements governing allowances.\nTypes of allowances include the following:\nL",
+    "drawing_mentions": [
+      {
+        "page": 3,
+        "text": "SEAL, CAULK OR WEATHER-STRIP EXTERIOR JOINTS AROUND WINDOW AND DOOR FRAMES, BETWEEN WALLS AND FOUNDATION, BETWEEN WALLS AND ROOF, BETWEEN WALL PANELS, AT PENETRATION OF UTILITIES THROUGH THE ENVELOPE, TO PREVENT AIR LEAKAGE/INFILTRATION. 35.",
+        "bbox": {
+          "l": 688.8,
+          "t": 699.2699882278823,
+          "r": 1142.884,
+          "b": 669.5029882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 3,
+        "text": "LOCATE SPRINKLER HEADS, EXIT SIGNS, CEILING STROBES, LIGHT FIXTURES, AUDIO-VISUAL DEVICES, SMOKE DETECTORS AND OTHER DEVICES EXPOSED AT ACOUSTICAL PANEL CEILINGS IN THE CENTER OF THE ACOUSTICAL CEILING PANEL, UNLESS OTHERWISE NOTED. 10.",
+        "bbox": {
+          "l": 1729.2,
+          "t": 837.0909882278825,
+          "r": 2161.258,
+          "b": 807.2639882278822,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 3,
+        "text": "FIELD VERIFY LOCATION OF ACCESS PANELS, AND MARK ON SLAB FOR ARCHITECT'S REVIEW. DO NOT PROCEED WITHOUT ARCHITECT'S APPROVAL OF LOCATIONS. 11.",
+        "bbox": {
+          "l": 1729.2,
+          "t": 794.1909882278824,
+          "r": 2132.066,
+          "b": 775.1639882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 3,
+        "text": "PROVIDE ACCESS PANELS AS REQUIRED BY APPLICABLE CODES AND AS REQUIRED FOR MECHANICAL EQUIPMENT. ACCESS PANELS SHALL BE CONCEALED TYPE. REVIEW LOCATIONS WITH ARCHITECT PRIOR TO PROCEEDING. 21.",
+        "bbox": {
+          "l": 1729.201,
+          "t": 451.3509882278822,
+          "r": 2154.979,
+          "b": 421.5839882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 3,
+        "text": "COORDINATE POWER, COMMUNICATIONS, CONTROLS, AUDIO-VISUAL, SECURITY AND OTHER DEVICES WITH MILLWORK AND UPHOLSTERED WALL SYSTEMS. PROVIDE EXTENDED BOXES TO MEET FINISHED SURFACES. CENTER POWER, COMMUNICATIONS, AUDIOVISUAL, OR OTHER DEVICES IN MILLWORK, UPHOLSTERED, GYPSUM BOARD OR OTHER WALL PANELS AS INDICATED ON ELEVATIONS. 7.",
+        "bbox": {
+          "l": 2247.6,
+          "t": 1877.8509882278822,
+          "r": 2706.447,
+          "b": 1837.3439882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 3,
+        "text": "PAINT BACK SIDES OF REMOVABLE ACCESS PANELS OR HINGED COVERS TO MATCH EXPOSED SURFACE. 12.",
+        "bbox": {
+          "l": 2247.6,
+          "t": 676.3509882278822,
+          "r": 2662.999,
+          "b": 668.0039882278825,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 11,
+        "text": "P16 HEIGHT OF PARTITION TO MATCH HEIGHT OF CENTER FURNITURE PANEL.",
+        "bbox": {
+          "l": 2324.88,
+          "t": 1527.2109882278824,
+          "r": 2639.778,
+          "b": 1518.8639882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 12,
+        "text": "C1 AWP-1 PANEL ADHERED TO 3/4\" FRT PLYWOOD AND SUSPENDED FROM CONCRETE DECK WITH AIRCRAFT CABLE. PROVIDE APERTURE FOR LIGHTING CABLES, CENTERED OVER FURNITURE PANEL SEPARATING WORKSTATION ROWS. SEE 12/A10-26.",
+        "bbox": {
+          "l": 2318.82,
+          "t": 721.4109882278822,
+          "r": 2709.286,
+          "b": 691.6439882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 12,
+        "text": "ACCESS PANELS TO BE STEALTH PANELS AT GWB. 15.",
+        "bbox": {
+          "l": 2324.46,
+          "t": 231.32998822788227,
+          "r": 2547.14,
+          "b": 222.9819882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 13,
+        "text": "TENANT-INSTALLED AV CONTROL PANEL, +56\" AFF U.N.O. TP",
+        "bbox": {
+          "l": 2348.46,
+          "t": 1328.5699882278823,
+          "r": 2643.321,
+          "b": 1318.7209882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 13,
+        "text": "CONTROL PANEL",
+        "bbox": {
+          "l": 2389.98,
+          "t": 1260.4099882278824,
+          "r": 2463.379,
+          "b": 1252.0609882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 13,
+        "text": "MAIN DIM PANEL DMP",
+        "bbox": {
+          "l": 2344.08,
+          "t": 1240.3099882278823,
+          "r": 2465.281,
+          "b": 1229.8609882278822,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 16,
+        "text": "NOTE: PROVIDE THREE EQUAL MTL-2 PANELS AT THIS LOCATION, FINAL WIDTHS WIL L BE COORDINATED WITH CLIENT'S SIGNAGE VENDOR.",
+        "bbox": {
+          "l": 793.32,
+          "t": 838.7709882278823,
+          "r": 1316.281,
+          "b": 830.4239882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 16,
+        "text": "TENANT-INSTALLED AV CONTROL PANEL, +56\" AFF U.N.O.",
+        "bbox": {
+          "l": 2367.78,
+          "t": 1953.2109882278824,
+          "r": 2581.577,
+          "b": 1944.8639882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 17,
+        "text": "TP TENANT-INSTALLED AV CONTROL PANEL, +56\" AFF U.N.O.",
+        "bbox": {
+          "l": 2327.34,
+          "t": 1954.8499882278822,
+          "r": 2581.037,
+          "b": 1945.1639882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 18,
+        "text": "TP TENANT-INSTALLED AV CONTROL PANEL, +56\" AFF U.N.O.",
+        "bbox": {
+          "l": 2326.74,
+          "t": 1955.2099882278824,
+          "r": 2580.374,
+          "b": 1945.4639882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 21,
+        "text": "TP TENANT-INSTALLED AV CONTROL PANEL, +56\" AFF U.N.O.",
+        "bbox": {
+          "l": 2327.34,
+          "t": 1954.7299882278824,
+          "r": 2580.976,
+          "b": 1945.0439882278822,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 22,
+        "text": "TP TENANT-INSTALLED AV CONTROL PANEL, +56\" AFF U.N.O.",
+        "bbox": {
+          "l": 2327.46,
+          "t": 1954.8499882278822,
+          "r": 2581.098,
+          "b": 1945.1639882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 25,
+        "text": "WELDED TO PANEL",
+        "bbox": {
+          "l": 205.08,
+          "t": 1227.3899882278822,
+          "r": 277.137,
+          "b": 1219.0429882278822,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 25,
+        "text": "CONCRETE PANEL  WITH",
+        "bbox": {
+          "l": 205.5,
+          "t": 1484.7899882278823,
+          "r": 298.705,
+          "b": 1476.4429882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 25,
+        "text": "MTL-2  PANEL",
+        "bbox": {
+          "l": 206.04,
+          "t": 584.0099882278823,
+          "r": 257.056,
+          "b": 575.6629882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 25,
+        "text": "WELDED TO PANEL",
+        "bbox": {
+          "l": 205.14,
+          "t": 675.1499882278822,
+          "r": 277.197,
+          "b": 666.8029882278825,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 25,
+        "text": "WELDED TO PANEL",
+        "bbox": {
+          "l": 205.141,
+          "t": 362.1899882278824,
+          "r": 277.197,
+          "b": 353.8429882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 25,
+        "text": "CONCRETE PANEL  WITH",
+        "bbox": {
+          "l": 205.081,
+          "t": 324.8099882278823,
+          "r": 298.288,
+          "b": 316.4629882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 25,
+        "text": "PANEL IN TOP AND BOTTOM CHANNEL",
+        "bbox": {
+          "l": 1244.58,
+          "t": 1337.9699882278824,
+          "r": 1387.849,
+          "b": 1329.6239882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 25,
+        "text": "CONCRETE PANEL  WITH MUD",
+        "bbox": {
+          "l": 1664.28,
+          "t": 769.2309882278823,
+          "r": 1776.854,
+          "b": 760.8839882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 25,
+        "text": "CONCRETE PANEL  WITH",
+        "bbox": {
+          "l": 1664.461,
+          "t": 328.05098822788227,
+          "r": 1757.666,
+          "b": 319.7039882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 25,
+        "text": "MTL-3 PANEL",
+        "bbox": {
+          "l": 2317.02,
+          "t": 1995.2109882278824,
+          "r": 2365.933,
+          "b": 1986.8639882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 25,
+        "text": "ALIGN WITH MTL-3 PANEL",
+        "bbox": {
+          "l": 2317.02,
+          "t": 1936.1109882278822,
+          "r": 2412.17,
+          "b": 1927.7639882278822,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 25,
+        "text": "CONCRETE PANEL  WITH",
+        "bbox": {
+          "l": 2317.02,
+          "t": 2023.8309882278822,
+          "r": 2410.226,
+          "b": 2015.4839882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 25,
+        "text": "MTL-2 PANEL",
+        "bbox": {
+          "l": 2601.84,
+          "t": 1429.9509882278824,
+          "r": 2650.753,
+          "b": 1421.6039882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 25,
+        "text": "PART WELDED TO PANEL",
+        "bbox": {
+          "l": 2601.84,
+          "t": 1450.2909882278823,
+          "r": 2696.229,
+          "b": 1441.9439882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 25,
+        "text": "MTL-2 PANEL",
+        "bbox": {
+          "l": 2216.22,
+          "t": 957.8109882278823,
+          "r": 2265.133,
+          "b": 949.4639882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 25,
+        "text": "WELDED TO PANEL",
+        "bbox": {
+          "l": 2216.22,
+          "t": 900.3909882278822,
+          "r": 2288.276,
+          "b": 892.0439882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 25,
+        "text": "CONCRETE PANEL  WITH",
+        "bbox": {
+          "l": 2216.22,
+          "t": 993.2709882278823,
+          "r": 2309.426,
+          "b": 984.9239882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 25,
+        "text": "MTL-2  OR MTL-3 PANEL, SEE  ENLARGED",
+        "bbox": {
+          "l": 2219.461,
+          "t": 421.59098822788224,
+          "r": 2373.108,
+          "b": 413.24398822788226,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 25,
+        "text": "1 PART WELDED TO PANEL",
+        "bbox": {
+          "l": 2219.461,
+          "t": 370.05098822788227,
+          "r": 2320.201,
+          "b": 361.7039882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 25,
+        "text": "CONCRETE PANEL  WITH",
+        "bbox": {
+          "l": 2219.461,
+          "t": 339.6309882278824,
+          "r": 2312.667,
+          "b": 331.2839882278822,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 26,
+        "text": "SCHEDULED WOOD PANEL",
+        "bbox": {
+          "l": 1277.82,
+          "t": 412.23098822788234,
+          "r": 1378.082,
+          "b": 403.88398822788236,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 26,
+        "text": "MTL-2 PANEL",
+        "bbox": {
+          "l": 457.38,
+          "t": 922.4099882278824,
+          "r": 506.292,
+          "b": 914.0629882278822,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 26,
+        "text": "WELDED TO PANEL",
+        "bbox": {
+          "l": 457.38,
+          "t": 883.2899882278823,
+          "r": 529.437,
+          "b": 874.9429882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 27,
+        "text": "FINISHED END PANEL",
+        "bbox": {
+          "l": 479.82,
+          "t": 1806.9899882278823,
+          "r": 560.323,
+          "b": 1798.6429882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 27,
+        "text": "FINISHED END PANEL",
+        "bbox": {
+          "l": 465.54,
+          "t": 1324.1099882278822,
+          "r": 546.042,
+          "b": 1315.7629882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 27,
+        "text": "PANELS TO ACCOMMODATE",
+        "bbox": {
+          "l": 781.62,
+          "t": 1993.1099882278822,
+          "r": 887.103,
+          "b": 1984.7629882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 27,
+        "text": "PANELS TO ACCOMMODATE",
+        "bbox": {
+          "l": 683.82,
+          "t": 1371.0299882278823,
+          "r": 789.303,
+          "b": 1362.6839882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 27,
+        "text": "REMOVABLE BACK PANEL",
+        "bbox": {
+          "l": 1442.94,
+          "t": 1288.6509882278824,
+          "r": 1539.919,
+          "b": 1280.3039882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 27,
+        "text": "BACK PANEL",
+        "bbox": {
+          "l": 1947.66,
+          "t": 1390.3509882278822,
+          "r": 1995.391,
+          "b": 1382.0039882278822,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 28,
+        "text": "BACK PANEL",
+        "bbox": {
+          "l": 2505.36,
+          "t": 913.8309882278822,
+          "r": 2553.091,
+          "b": 905.4839882278823,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 28,
+        "text": "SIDE PANELS, AND BACK",
+        "bbox": {
+          "l": 2522.7,
+          "t": 419.19098822788237,
+          "r": 2615.45,
+          "b": 410.8439882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 28,
+        "text": "PANEL.  PROVIDE",
+        "bbox": {
+          "l": 2522.7,
+          "t": 408.45098822788236,
+          "r": 2587.987,
+          "b": 400.1039882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 29,
+        "text": "HINGED ACCESS PANEL WITH",
+        "bbox": {
+          "l": 1284.66,
+          "t": 876.4509882278824,
+          "r": 1395.911,
+          "b": 868.1039882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 31,
+        "text": "MTL-2  OR MTL-3 PANEL, SEE  ENLARGED",
+        "bbox": {
+          "l": 2261.94,
+          "t": 1700.9109882278824,
+          "r": 2415.587,
+          "b": 1692.5639882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 31,
+        "text": "TO PANEL",
+        "bbox": {
+          "l": 2261.94,
+          "t": 1729.6509882278824,
+          "r": 2299.509,
+          "b": 1721.3039882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 31,
+        "text": "OF METAL PANELS @ COVE",
+        "bbox": {
+          "l": 2262.06,
+          "t": 1522.4909882278823,
+          "r": 2537.75,
+          "b": 1500.2949882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 32,
+        "text": "ACCESS VIA ACCESS PANELS",
+        "bbox": {
+          "l": 2557.5,
+          "t": 1189.4709882278823,
+          "r": 2668.411,
+          "b": 1181.1239882278824,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 50,
+        "text": "THE ELECTRICAL CONTRACTOR SHALL FIELD EXAMINE THE ENTIRE AREA AFFECTED BY THIS CONSTRUCTION AND SHALL REMOVE ALL EXISTING ELECTRICAL EQUIPMENT AND OTHER DEVICES COMPLETE WITH ALL ASSOCIATED WIRING, CONDUITS, ETC. AS REQUIRED TO COMPLETE THE NEW WORK. ALL CONDUITS WITH NON-ACTIVE WIRING SHALL BE REMOVED. AS PER DEMOLITION PLAN PROVIDE ALL DEMOLITION LABOR AS REQUIRED BY ARCHITECTS DEMOLITION NOTE AND AS INSTRUCTED IN FIELD BY G.C.. WHERE THE REMOVAL OF THESE ITEMS MAKE DEAD ELECTRICAL WIRING THAT IS TO REMAIN, THE CONTRACTOR SHALL INSTALL JUNCTION BOXES AND OTHER DEVICES AND PROVIDE BYPASS CONNECTIONS AS REQUIRED TO MAKE THE CIRCUITS AFFECTED CONTINUOUS AND READY FOR OPERATION. OTHERWISE, OBSOLETE WIRING SHALL BE REMOVED BACK TO THE REMAINING DEVICE OR TO THE PANELBOARD.",
+        "bbox": {
+          "l": 308.865,
+          "t": 601.8800000000001,
+          "r": 782.474,
+          "b": 518.6880000000001,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 52,
+        "text": "MAINTAIN CONTINUITY OF EXISTING BRANCH CIRCUITING FOR EXISTING RECEPTACLES TO REMAIN. RECONNECT TO EXISTING RESPECTIVE PANELS AS REQUIRED.",
+        "bbox": {
+          "l": 426.12,
+          "t": 438.0799999999999,
+          "r": 723.933,
+          "b": 410.08799999999997,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 52,
+        "text": "1 WALL MOUNTED COMBINATION J-BOX TO SERVE REQUIREMENTS FOR POWER AND TEL/DATA OUTLETS WITHIN PRE-WIRED FUNITURE. COORDINATE EXACT CONNECTION TYPE AND QUANTITY OF POWER CONDUCTORS WITH EQUIPMENT MANUFACTURER. PROVIDE DISCONNECTING MEANS AS REQUIRED BY NEC ART. 605.7. PROVIDE 1-1 1/4\" C. TO 6\" INTO NEAREST HUNG CEILING SPACE. PROVIDE LABEL ON ALL FURNITURE WHIPS INDICATED PANEL AND CIRCUIT NUMBER FEEDING RESPECTIVE FURNITURE CLUSTER.",
+        "bbox": {
+          "l": 817.8,
+          "t": 637.4000000000001,
+          "r": 1140.827,
+          "b": 565.248,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 52,
+        "text": "2 FLUSH FLOOR MOUNTED FIRE RATED POKE-THRU DEVICE TO SERVE REQUIREMENTS FOR POWER AND TEL/DATA OUTLETS WITHIN PRE-WIRED FURNITURE. COORDINATE EXACT CONNECTION TYPE AND QUANTITY OF POWER CONDUCTORS WITH EQUIPMENT MANUFACTURER. PROVIDE DISCONNECTING MEANS AS REQUIRED BY NEC ART. 605.7. PROVIDE 1-1 1/4\" C. TO 6\" INTO NEAREST HUNG CEILING SPACE. PROVIDE LABEL ON ALL FURNITURE WHIPS INDICATED PANEL AND CIRCUIT NUMBER FEEDING RESPECTIVE FURNITURE CLUSTER.",
+        "bbox": {
+          "l": 817.8,
+          "t": 557.96,
+          "r": 1137.603,
+          "b": 474.76800000000003,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 52,
+        "text": "6 PROVIDE NEW PANEL AND GROUND BAR, SEE GROUNDING BAR DETAIL ON SHEET E-601 AND PANEL SCHEDULE ON SHEET E-101.",
+        "bbox": {
+          "l": 817.8,
+          "t": 372.79999999999995,
+          "r": 1143.685,
+          "b": 355.9680000000001,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 53,
+        "text": "MAINTAIN CONTINUITY OF EXISTING BRANCH CIRCUITING FOR EXISTING RECEPTACLES TO REMAIN. RECONNECT TO EXISTING RESPECTIVE PANELS AS REQUIRED.",
+        "bbox": {
+          "l": 440.28,
+          "t": 406.8800000000001,
+          "r": 738.093,
+          "b": 378.8879999999999,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 59,
+        "text": "CONNECT ALL NEW FIRE ALARM DEVICES TO EXISTING BASE BUILDING FIRE ALARM SYSTEM WITH WIRE AND CONDUIT AS REQUIRED BY EQUIPMENT MANUFACTURER. CONTRACTOR SHALL BE RESPONSIBLE PROVIDE ANY COMPONENTS AND/OR MAKE ANY MODIFICATIONS TO NECESSARY TO THE FIRE ALARM CONTROL PANEL AND POWER SUPPLY TO ALLOW FOR INSTALLATION OF NEW ADA APPROVED FIRE APPROVED FIRE ALARM DEVICES.",
+        "bbox": {
+          "l": 351.24,
+          "t": 541.76,
+          "r": 664.272,
+          "b": 480.64800000000014,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      }
+    ]
+  },
+  {
+    "keyword": "fan",
+    "spec_section": "01 10 00",
+    "spec_title": "4",
+    "spec_snippet": "01 10 00 - 4\nFOULGER-PRATT HEADQUARTERS\nISSUE FOR PERMIT AND BID\nSECTION 01 21 00 - ALLOWANCES\nPART 1 - GENERAL\n1.1 SUMMARY\nSection includes administrative and procedural requirements governing allowances.\nTypes of allowances include the following:\nL",
+    "drawing_mentions": [
+      {
+        "page": 3,
+        "text": "SWITCHES FOR FANS, PROJECTION SCREENS AND OTHER EQUIPMENT SHALL MATCH LIGHT SWITCHES INCLUDING COVERPLATES. 11.",
+        "bbox": {
+          "l": 2247.6,
+          "t": 1727.8509882278822,
+          "r": 2697.384,
+          "b": 1708.7639882278822,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 35,
+        "text": "PROVIDE FAN WITH DISCONNECT SWITCH.",
+        "bbox": {
+          "l": 365.88,
+          "t": 1477.04,
+          "r": 531.233,
+          "b": 1471.248,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 35,
+        "text": "PROVIDE FAN 60 MINUTE TIMER SWITCH ON WALL.",
+        "bbox": {
+          "l": 365.88,
+          "t": 1466.0,
+          "r": 564.841,
+          "b": 1460.208,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 35,
+        "text": "BMS SEQUENCE OF OPERATIONS SHALL BE UPDATED TO INCLUDE FAN OPERATION. CAFE EXHAUST FAN SHALL OPERATE DURING OCCUPIED MODE. FAN SHALL BE DISABLED DURING UNOCCUPIED HOURS.",
+        "bbox": {
+          "l": 365.88,
+          "t": 1454.96,
+          "r": 1123.454,
+          "b": 1449.168,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 35,
+        "text": "2ND FLOOR SERIES FAN POWERD BOX WITH REHEAT SCHEDULE",
+        "bbox": {
+          "l": 2061.36,
+          "t": 1673.96,
+          "r": 2294.854,
+          "b": 1668.168,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      },
+      {
+        "page": 35,
+        "text": "1. PROVIDE VAV BOX WITH SINGLE POINT POWER CONNECTION AND INTEGRAL DISCONNECT SWITCH FOR FAN AND COIL. PROVIDE INTEGRAL STEP DOWN TRANSOFERM AS NECESSARY TO POWER FAN. 2. CONTROLS SHALL BE FACTORY MOUNTED AND COMPATABLE WITH BASE BUILDING BMS SYSTEM.",
+        "bbox": {
+          "l": 1693.32,
+          "t": 1147.88,
+          "r": 2434.573,
+          "b": 1131.048,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      }
+    ]
+  },
+  {
+    "keyword": "pump",
+    "spec_section": "01 10 00",
+    "spec_title": "4",
+    "spec_snippet": "01 10 00 - 4\nFOULGER-PRATT HEADQUARTERS\nISSUE FOR PERMIT AND BID\nSECTION 01 21 00 - ALLOWANCES\nPART 1 - GENERAL\n1.1 SUMMARY\nSection includes administrative and procedural requirements governing allowances.\nTypes of allowances include the following:\nL",
+    "drawing_mentions": [
+      {
+        "page": 35,
+        "text": "PROVIDE UNIT WITH DUAL FLOAT CONDENSATE PUMP (SHIPPED LOOSE TO BE INSTALLED BY CONTRACTOR). PUMP SHALL BE POWERED THROUGH UNIT VIA INTEGRAL STEP-DOWN TRANSFORMER. CONDENSATE PUMP SHALL HAVE DISCHARGE CHECK VALVE, AND SECONDARY FLOAT WIRED TO SHUTDOWN UNIT IF HIGH CONDENSATE LEVEL IS DETECTED.",
+        "bbox": {
+          "l": 365.88,
+          "t": 1727.6,
+          "r": 1550.169,
+          "b": 1710.768,
+          "coord_origin": "BOTTOMLEFT"
+        }
+      }
+    ]
+  }
+]
