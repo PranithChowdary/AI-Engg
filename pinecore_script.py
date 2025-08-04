@@ -5,7 +5,7 @@ from sentence_transformers import SentenceTransformer
 from pinecone import Pinecone
 
 # --- Setup Pinecone Client ---
-PINECONE_API_KEY = "pcsk_9WSic_8DGehGtHrh3NNKhAT3LfekaJrdCLq9TLUdndNnGBkL3FKsxR7FtcrpwNx32M7gt"
+PINECONE_API_KEY = "API_KEY"
 INDEX_NAME = "construction-docs"
 
 pc = Pinecone(api_key=PINECONE_API_KEY, environment="us-west1-aws")
